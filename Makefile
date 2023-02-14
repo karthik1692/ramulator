@@ -45,3 +45,9 @@ $(OBJDIR):
 
 $(OBJDIR)/%.o: $(SRCDIR)/%.cpp
 	$(CXX) $(CXXFLAGS) -DRAMULATOR -c -o $@ $<
+	
+	
+	
+	
+	
+	kakdjbfdbdfhvfvwqvhahdjhahif9pe9ueqo83ru3q
